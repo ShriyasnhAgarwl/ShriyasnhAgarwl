@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shriyansh Agarwal</h1>
 <h3 align="center">A passionate data science enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shriyasnhagarwl&label=Profile%20views&color=0e75b6&style=flat" alt="shriyasnhagarwl" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shriyasnhagarwl" alt="shriyasnhagarwl" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Projects**
+- 🔭 I’m currently working on **Frontend, Data Science and Machine Learning Projects**
 
 - 🌱 I’m currently learning **React Js, Node Js**
 
-- 👯 I’m looking to collaborate on **Data Science**
+- 👯 I’m looking to collaborate on **Data Science Projects**
 
 - 📫 How to reach me **shriyanshagar9026@gmail.com**
 
