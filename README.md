@@ -1,4 +1,4 @@
-<p><img align="left" src="https://github.com/ShriyasnhAgarwl/ShriyasnhAgarwl/blob/main/shriyansh.png" alt="Shriyansh" /></p
+<p><img align="left" src="https://github.com/ShriyasnhAgarwl/ShriyasnhAgarwl/blob/main/shriyansh.png" alt="Shriyansh" /></p>
 <h1 align="center">Hi 👋, I'm Shriyansh Agarwal</h1>
 <h3 align="center">A passionate data science enthusiast from India</h3>
 
