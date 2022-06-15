@@ -1,3 +1,4 @@
+<p><img align="left" src="https://drive.google.com/file/d/1gFOX5awVLYwDJi5_9E0HodqMTAOLHch6/view?usp=sharing" alt="Shriyansh" /></p
 <h1 align="center">Hi 👋, I'm Shriyansh Agarwal</h1>
 <h3 align="center">A passionate data science enthusiast from India</h3>
 
