@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shriyanshagar9026@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-wYzc-ShzbbhqwZsVUcVU92h6eO857c6/view?usp=sharing](https://drive.google.com/file/d/1-wYzc-ShzbbhqwZsVUcVU92h6eO857c6/view?usp=sharing)
+- 📄 Know about my experiences [Shriyansh Resume](https://drive.google.com/file/d/1-wYzc-ShzbbhqwZsVUcVU92h6eO857c6/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny**
 
