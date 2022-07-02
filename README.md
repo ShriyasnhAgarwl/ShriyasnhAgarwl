@@ -1,6 +1,6 @@
 <p><img align="center" src="https://github.com/ShriyasnhAgarwl/ShriyasnhAgarwl/blob/main/shriyansh1.png" alt="Shriyansh" /></p>
-<h1 align="center">Hi 👋, I'm Shriyansh Agarwal</h1>
-<h3 align="center">A passionate data science enthusiast from India</h3>
+<h1 align="center">Hello 👋, I'm Shriyansh Agarwal</h1>
+<h3 align="center">A passionate data science and software development enthusiast from India</h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shriyasnhagarwl" alt="shriyasnhagarwl" /></a> </p>
