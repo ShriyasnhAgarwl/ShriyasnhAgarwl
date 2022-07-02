@@ -3,8 +3,6 @@
 <h3 align="center">A passionate data science and software development enthusiast from India</h3>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shriyasnhagarwl" alt="shriyasnhagarwl" /></a> </p>
-
 - 🔭 I’m currently working on **Frontend, Data Science and Machine Learning Projects**
 
 - 🌱 I’m currently learning **React Js, Node Js**
