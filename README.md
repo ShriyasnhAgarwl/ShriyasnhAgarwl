@@ -1,4 +1,4 @@
-<p><img align="center" src="[https://github.com/ShriyasnhAgarwl/ShriyasnhAgarwl/blob/main/shriyansh1.png](https://github.com/ShriyasnhAgarwl/ShriyasnhAgarwl/blob/main/gitreadme.png)" alt="Shriyansh" /></p>
+<p><img align="center" src="https://github.com/ShriyasnhAgarwl/ShriyasnhAgarwl/blob/main/gitreadme.png" alt="Shriyansh" /></p>
 <h1 align="center">Hello 👋, I'm Shriyansh Agarwal</h1>
 <h3 align="center">A passionate data science and software development enthusiast from India</h3>
 
