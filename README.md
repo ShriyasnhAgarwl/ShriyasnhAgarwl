@@ -16,7 +16,7 @@
     <a href="https://github.com/ShriyasnhAgarwl">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ShriyasnhAgarwl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
-## 📘 My projects
+## My projects
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -27,7 +27,8 @@
   
 </p> -->
 <p align="center">
-  - 🔭 I’m currently working on **Frontend, Data Science and Machine Learning Projects**
+  
+- 🔭 I’m currently working on **Frontend, Data Science and Machine Learning Projects**
 
 - 🌱 I’m currently learning **React Js, Node Js**
 
