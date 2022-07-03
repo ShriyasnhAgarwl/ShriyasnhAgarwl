@@ -9,7 +9,13 @@
 </p>
 <!-- [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=FFBF00&lines=Data+Science+and+Front+End+Enthusiast;3%2B+years+of+Coding+Experirence+;Thrives+to+achieve+every+goal+;Tech+Stack+-+MERN+Stack;Mantra%3A+Believe+Behavior+Results)](https://git.io/typing-svg) -->
 
-
+<!-- Badges template - https://github.com/badges/shields -->
+<!-- YouTube Stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<p align="center">
+    <a href="https://github.com/ShriyasnhAgarwl">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/hakpk5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+</p>
 - 🔭 I’m currently working on **Frontend, Data Science and Machine Learning Projects**
 
 - 🌱 I’m currently learning **React Js, Node Js**
