@@ -5,9 +5,9 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/hakpk5"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN-stack%20web%20developer;Self-taught%20Coder;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/hakpk5"><img src="http://readme-typing-svg.herokuapp.com?color=FFBF00&lines=Data+Science+and+Front+End+Enthusiast;3%2B+years+of+Coding+Experirence+;Thrives+to+achieve+every+goal+;Tech+Stack+-+MERN+Stack;Mantra%3A+Believe+Behavior+Results"></a>
 </p>
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=FFBF00&lines=Data+Science+and+Front+End+Enthusiast;3%2B+years+of+Coding+Experirence+;Thrives+to+achieve+every+goal+;Tech+Stack+-+MERN+Stack;Mantra%3A+Believe+Behavior+Results)](https://git.io/typing-svg)
+<!-- [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=FFBF00&lines=Data+Science+and+Front+End+Enthusiast;3%2B+years+of+Coding+Experirence+;Thrives+to+achieve+every+goal+;Tech+Stack+-+MERN+Stack;Mantra%3A+Believe+Behavior+Results)](https://git.io/typing-svg) -->
 
 
 - 🔭 I’m currently working on **Frontend, Data Science and Machine Learning Projects**
