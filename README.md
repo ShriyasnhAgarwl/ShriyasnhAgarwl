@@ -16,6 +16,16 @@
     <a href="https://github.com/ShriyasnhAgarwl">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ShriyasnhAgarwl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
+## 📘 My projects
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+  <a href="https://github.com/hakpk5/Contacts-App"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hakpk5&repo=Contacts-App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Contacts-App"></a>
+  <a href="https://github.com/hakpk5/MentalMath"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hakpk5&repo=MentalMath&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Mental-Math"></a>
+  <a href="https://github.com/hakpk5/TaskApp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hakpk5&repo=TaskApp&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Task App"></a><a href="https://github.com/hakpk5/Netflix"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hakpk5&repo=Netflix&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Netflix-Clone"></a><a href="https://github.com/hakpk5/Videe-Game-Database"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hakpk5&repo=Videe-Game-Database&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Videe-Game-Database"></a><a href="https://github.com/hakpk5/ReactSearchApp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hakpk5&repo=ReactSearchApp&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="ReactSearchApp"></a>
+  
+</p>
 - 🔭 I’m currently working on **Frontend, Data Science and Machine Learning Projects**
 
 - 🌱 I’m currently learning **React Js, Node Js**
