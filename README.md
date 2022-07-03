@@ -14,7 +14,7 @@
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
     <a href="https://github.com/ShriyasnhAgarwl">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/hakpk5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ShriyasnhAgarwl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 - 🔭 I’m currently working on **Frontend, Data Science and Machine Learning Projects**
 
