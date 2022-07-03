@@ -28,17 +28,17 @@
 </p> -->
 <p align="center">
   
-- 🔭 I’m currently working on **Frontend, Data Science and Machine Learning Projects**
+<!-- - 🔭 I’m currently working on **Frontend, Data Science and Machine Learning Projects**
 
 - 🌱 I’m currently learning **React Js, Node Js**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
-
+ -->
 - 📫 How to reach me **shriyanshagar9026@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-wYzc-ShzbbhqwZsVUcVU92h6eO857c6/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am Funny**
+<!-- - ⚡ Fun fact **I think I am Funny** -->
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
