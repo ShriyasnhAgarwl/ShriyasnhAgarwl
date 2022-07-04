@@ -1,5 +1,6 @@
 <h3 align="center">
-  Namaste Dunia🙏! I'm Shriyansh Agarwal!
+  Namaste Dunia🙏! 
+  I'm Shriyash Agarwal!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
