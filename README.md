@@ -50,7 +50,7 @@ Want to Know about my experiences? Here is my [Resume](https://drive.google.com/
 
 
 <p align='center'>
-
+   <a href="https://dev.to/shriyasnhagarwl"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/ShriyanshAgarwl"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shriyanshagarwal/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
