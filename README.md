@@ -9,7 +9,7 @@
 </h2>
 
 <p align="center">
-  <img width="300" height="300" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
+  <img width="200" height="200" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
 </p>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
