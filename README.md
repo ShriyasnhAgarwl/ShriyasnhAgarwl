@@ -17,11 +17,7 @@
 <p align="center">
     <a href="https://github.com/ShriyasnhAgarwl">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ShriyasnhAgarwl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-</p>
-<p align="center">
-    <a href="https://github.com/ShriyasnhAgarwl">
-    <img alt="profileviews" title="Views" src="https://komarev.com/ghpvc/?ShriyanshAgarwl=your-github-username&color=yellow"/></a>
-</p>
+
 
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
