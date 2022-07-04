@@ -37,7 +37,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
  -->
-Want to Know about my experiences Here is my [Resume](https://drive.google.com/file/d/1-wYzc-ShzbbhqwZsVUcVU92h6eO857c6/view?usp=sharing)
+Want to Know about my experiences? Here is my [Resume](https://drive.google.com/file/d/1-wYzc-ShzbbhqwZsVUcVU92h6eO857c6/view?usp=sharing)
 
 <!-- - ⚡ Fun fact **I think I am Funny** -->
 </h3>
