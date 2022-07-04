@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img width="300" height="400" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
+  <img width="300" height="300" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
 </p>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
