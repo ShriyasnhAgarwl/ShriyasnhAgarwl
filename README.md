@@ -7,7 +7,7 @@
 </p>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/ShriyanshAgarwl"><img src="http://readme-typing-svg.herokuapp.com?color=FFBF00&lines=Data+Science+and+Front+End+Enthusiast;3%2B+years+of+Coding+Experirence+;Thrives+to+achieve+every+goal+;Tech+Stack+-+MERN+Stack;Mantra%3A+Believe+Behavior+Results"></a>
+  <a href="https://github.com/ShriyanshAgarwl"><img src="http://readme-typing-svg.herokuapp.com?color=FFBF00&center=true&width=500&lines=Data+Science+and+Front+End+Enthusiast;3%2B+Years+of+Coding+Experience;Thrives+to+achieve+every+goal+!!;MERN+Stack%2C+%26+Data+Analysis;Mantra%3A+Believe%2C+Behavior%2C+Results"></a>
 </p>
 <!-- [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=FFBF00&lines=Data+Science+and+Front+End+Enthusiast;3%2B+years+of+Coding+Experirence+;Thrives+to+achieve+every+goal+;Tech+Stack+-+MERN+Stack;Mantra%3A+Believe+Behavior+Results)](https://git.io/typing-svg) -->
 
