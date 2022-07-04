@@ -2,10 +2,12 @@
   Welcome to Shriyansh Agarwal's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
+<p align="center">
+  <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
+</p>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/hakpk5"><img src="http://readme-typing-svg.herokuapp.com?color=FFBF00&lines=Data+Science+and+Front+End+Enthusiast;3%2B+years+of+Coding+Experirence+;Thrives+to+achieve+every+goal+;Tech+Stack+-+MERN+Stack;Mantra%3A+Believe+Behavior+Results"></a>
+  <a href="https://github.com/ShriyanshAgarwl"><img src="http://readme-typing-svg.herokuapp.com?color=FFBF00&lines=Data+Science+and+Front+End+Enthusiast;3%2B+years+of+Coding+Experirence+;Thrives+to+achieve+every+goal+;Tech+Stack+-+MERN+Stack;Mantra%3A+Believe+Behavior+Results"></a>
 </p>
 <!-- [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=FFBF00&lines=Data+Science+and+Front+End+Enthusiast;3%2B+years+of+Coding+Experirence+;Thrives+to+achieve+every+goal+;Tech+Stack+-+MERN+Stack;Mantra%3A+Believe+Behavior+Results)](https://git.io/typing-svg) -->
 
