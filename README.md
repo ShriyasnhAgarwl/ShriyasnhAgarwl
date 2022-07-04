@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-<img width="300" height="200" src="https://i.gifer.com/IT4l.gif">
+<img width="300" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4QCTT7zgcP0Ouc_VcqERbg-bDnp9fer-5g32t6JMKViE824WVvKdJwaevhmVWfsfLibs&usqp=CAU">
 </p>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
