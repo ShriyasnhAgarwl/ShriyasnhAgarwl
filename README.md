@@ -1,6 +1,6 @@
 
 <h3 align="center">
-   Namaste Dunia🙏! 
+   Namaste🙏! 
   <h3>
 <h2 align="center">
  
