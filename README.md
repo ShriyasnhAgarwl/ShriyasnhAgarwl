@@ -5,7 +5,9 @@
 <h2 align="center">
  
   I'm Shriyash Agarwal!!
+<div align="center"><a href="https://app.daily.dev/shriyanshagarwal"><img src="https://api.daily.dev/devcards/v2/IzyMhXYgsDeFGZ8GGUEN1.png?r=dzc&type=default" width="356" alt="Shriyansh Agarwal's Dev Card"/></a></div>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  
 </h2>
 
 <p align="center">
