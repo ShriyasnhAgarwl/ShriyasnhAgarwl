@@ -5,13 +5,14 @@
 <h2 align="center">
  
   I'm Shriyash Agarwal!! </h2>
-  <div align="center"><a href="https://app.daily.dev/shriyanshagarwal"><img src="https://api.daily.dev/devcards/v2/IzyMhXYgsDeFGZ8GGUEN1.png?r=dzc&type=default" width="356" alt="Shriyansh Agarwal's Dev Card"/></a></div>
-
-
-
-<p align="center">
+  <div align="center"><a href="https://app.daily.dev/shriyanshagarwal"><img src="https://api.daily.dev/devcards/v2/IzyMhXYgsDeFGZ8GGUEN1.png?r=dzc&type=default" width="356" alt="Shriyansh Agarwal's Dev Card"/></a>
+  <p align="center">
   <img width="200" height="200" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
-</p>
+</p></div>
+
+
+
+
 
 <div align="center"><a href="https://app.daily.dev/shriyanshagarwal"><img src="https://api.daily.dev/devcards/v2/IzyMhXYgsDeFGZ8GGUEN1.png?r=dzc&type=default" width="356" alt="Shriyansh Agarwal's Dev Card"/></a></div>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
