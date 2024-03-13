@@ -11,6 +11,8 @@
 <p align="center">
   <img width="200" height="200" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
 </p>
+
+<a href="https://app.daily.dev/shriyanshagarwal"><img src="https://api.daily.dev/devcards/v2/IzyMhXYgsDeFGZ8GGUEN1.png?r=dzc&type=default" width="356" alt="Shriyansh Agarwal's Dev Card"/></a>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/ShriyanshAgarwl"><img src="http://readme-typing-svg.herokuapp.com?color=FFBF00&center=true&width=500&lines=Data+Science+and+Front+End+Enthusiast;3%2B+Years+of+Coding+Experience;Thrives+to+achieve+every+goal+!!;MERN+Stack%2C+%26+Data+Analysis;Mantra%3A+Believe%2C+Behavior%2C+Results"></a>
