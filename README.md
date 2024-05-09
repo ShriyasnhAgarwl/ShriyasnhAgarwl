@@ -1,7 +1,7 @@
 
-<h3 align="center">
+<h1 align="center">
    Radhe Radhe🦚🌸🙏! 
-  <h3>
+  <h1>
 <h2 align="center">
  
   I'm Shriyash Agarwal!! </h2>
