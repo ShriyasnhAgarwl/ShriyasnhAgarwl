@@ -41,7 +41,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
  -->
-Want to Know about my experiences? Here is my [Resume](https://drive.google.com/file/d/1pt_u9cuEzzmj9pwf3fPF-Eg8dY4GTyP1/view?usp=sharing)
+Want to Know about my experiences? Here is my [Resume]([https://drive.google.com/file/d/1pt_u9cuEzzmj9pwf3fPF-Eg8dY4GTyP1/view?usp=sharing](https://portfoliowebsite-kappa-wine.vercel.app/))
 
 <!-- - ⚡ Fun fact **I think I am Funny** -->
 </h3>
