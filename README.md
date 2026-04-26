@@ -58,7 +58,7 @@ Want to Know about my experiences? Here is my [Resume]([https://drive.google.com
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shriyasnhagarwl&show_icons=true&locale=en" alt="shriyasnhagarwl" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shriyasnhagarwl&" alt="shriyasnhagarwl" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shriyasnhagarwl&" alt="shriyasnhagarwl" /></p>
 Here are some [🦜 parrots]
 
 <div>
@@ -86,4 +86,4 @@ Here are some [🦜 parrots]
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
+</div> -->
